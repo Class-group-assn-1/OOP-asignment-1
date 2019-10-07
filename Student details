@@ -1,0 +1,7 @@
+students= {
+'firstname': 'Stanley',
+'lastname': 'Maina',
+'Reg_number': 'Bscit-01-050/2018',
+'Phonenumber': 0700123456
+}
+print(students)
